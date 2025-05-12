@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eliseo\\source\\repos\\Repaso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C328F4-6B08-40FC-9464-C705B77FF1C2}|Repaso.csproj|c:\\users\\eliseo\\source\\repos\\repaso\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C328F4-6B08-40FC-9464-C705B77FF1C2}|Repaso.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C328F4-6B08-40FC-9464-C705B77FF1C2}|Repaso.csproj|c:\\users\\eliseo\\source\\repos\\repaso\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F1C328F4-6B08-40FC-9464-C705B77FF1C2}|Repaso.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C328F4-6B08-40FC-9464-C705B77FF1C2}|Repaso.csproj|c:\\users\\eliseo\\source\\repos\\repaso\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F1C328F4-6B08-40FC-9464-C705B77FF1C2}|Repaso.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\eliseo\\source\\repos\\Repaso\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\eliseo\\source\\repos\\Repaso\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-12T16:34:20.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\eliseo\\source\\repos\\Repaso\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\eliseo\\source\\repos\\Repaso\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebForm1.aspx.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAUwGwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:32:41.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\eliseo\\source\\repos\\Repaso\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebForm1.aspx",
+              "ToolTip": "C:\\Users\\eliseo\\source\\repos\\Repaso\\WebForm1.aspx",
+              "RelativeToolTip": "WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-12T16:17:00.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
